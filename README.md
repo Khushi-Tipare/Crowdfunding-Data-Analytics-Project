@@ -192,8 +192,6 @@ Khushi Tipare
 ---
 
 # Connect With Me
-## LinkedIn
-PASTE_LINKEDIN_LINK_HERE
 
-## GitHub
-PASTE_GITHUB_PROFILE_LINK_HERE
+## LinkedIn
+[LinkedIn Profile](https://www.linkedin.com/in/khushitipare24)
