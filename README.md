@@ -142,7 +142,7 @@ The dataset files are available through Google Drive:
 # Dashboard Screenshots
 
 ## Power BI Dashboard
-![Power BI Dashboard](Dashboard-Screenshots/powerbi_dashboard.png)
+![Power BI Dashboard](https://github.com/Khushi-Tipare/Crowdfunding-Data-Analytics-Project/blob/main/Excel%20Dashboard.png)
 
 ---
 
@@ -152,7 +152,9 @@ The dataset files are available through Google Drive:
 ---
 
 ## Excel Dashboard
-![Excel Dashboard](Dashboard-Screenshots/excel_dashboard.png)
+![Excel Dashboard](https://github.com/Khushi-Tipare/Crowdfunding-Data-Analytics-Project/blob/main/Excel%20Dashboard.png)
+
+---
 
 ---
 
