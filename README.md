@@ -118,8 +118,7 @@ The dataset files are available through Google Drive:
 [Download Dataset](https://drive.google.com/drive/u/0/folders/1-F909kYMbVxG_7uM5WtPxD6phcrOfZ3t)
 
 # Power BI Dashboard File
-[Download Power BI Dashboard](PASTE_POWERBI_LINK_HERE)
-
+[Download Power BI Dashboard](https://docs.google.com/spreadsheets/d/1oYBuj0oLAbmSZkS3agGd3qod53Mw1XeD/edit?usp=drive_link&ouid=108930128743914723134&rtpof=true&sd=true)
 ---
 
 # Tableau Dashboard File
@@ -128,8 +127,9 @@ The dataset files are available through Google Drive:
 ---
 
 # Excel Dashboard File
-[Download Excel Dashboard](PASTE_EXCEL_LINK_HERE)
+## Power BI Dashboard File
 
+[Download Power BI Dashboard](https://docs.google.com/spreadsheets/d/1oYBuj0oLAbmSZkS3agGd3qod53Mw1XeD/edit?usp=drive_link)
 ---
 
 # SQL Queries File
