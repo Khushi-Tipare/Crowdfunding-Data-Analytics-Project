@@ -148,7 +148,7 @@ The dataset files are available through Google Drive:
 
 
 ## Tableau Dashboard
-![Tableau Dashboard](Dashboard-Screenshots/tableau_dashboard.png)
+![Tableau Dashboard](https://github.com/Khushi-Tipare/Crowdfunding-Data-Analytics-Project/blob/main/Tableau%20Dashboard.png)
 
 ---
 
